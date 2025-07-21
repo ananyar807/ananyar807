@@ -24,12 +24,18 @@ Here are some of my top projects:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9b536813-352c-43f0-ac1f-8206f04ec182" alt="Pixel's Pet Shop Screenshot" style="max-width: 100%; width: 600px; border-radius: 10px;" />
   <br><br>
+   <img src="https://github.com/user-attachments/assets/9d586d4d-31d2-4843-a8b1-b195e5c0b285" alt="Lavan beauty" style="max-width: 100%; width: 600px; border-radius: 10px;" />
+  <br><br>
   <img src="https://github.com/user-attachments/assets/70e19a57-d152-49c0-8512-b02f7475ceb3" alt="Cherry Crisis" style="max-width: 100%; width: 400px; border-radius: 10px;" />
   <br><br>
 </div>
 
 
-https://github.com/user-attachments/assets/edadbd5a-5248-4cce-bbc6-fd137d39c662
+
+https://github.com/user-attachments/assets/cc60cdc3-cc48-4868-9afa-9ee4d50449b7
+
+
+
 
 
 ---
