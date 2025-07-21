@@ -11,7 +11,7 @@ Here are some of my top projects:
 - 🎮 [**Pixel's Pet Shop**](https://github.com/ananyar807/pixels-pet-shop)  
   A multiplayer game with 4+ features where players earn and buy pet avatars that follow the user.
 
-- 🎸 [**Cherry Crisis**]([https://github.com/Scout-NU/lavan-beauty](https://cherrycrisis.vercel.app/))  
+- 🎸 [**Cherry Crisis**](https://cherrycrisis.vercel.app/) 
   A web application developed for a band called Cherry Crisis. My favorite design to work on!
 
 - 🧴 [**Lavan Beauty**](https://github.com/Scout-NU/lavan-beauty)  
