@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ananya!
 
-I'm a passionate software engineer with experience in full stack development, front-end design, and product-focused engineering. I love building user-friendly, scalable applications that solve real-world problems.
+I'm a passionate software engineer with experience in full stack development, front-end design, and product-focused engineering. I love building user-friendly applications that solve real-world problems.
 
 ---
 
@@ -11,17 +11,20 @@ Here are some of my top projects:
 - 🎮 [**Pixel's Pet Shop**](https://github.com/ananyar807/pixels-pet-shop)  
   A multiplayer game with 4+ features where players earn and buy pet avatars that follow the user.
 
+- 🎸 [**Cherry Crisis**]([https://github.com/Scout-NU/lavan-beauty](https://cherrycrisis.vercel.app/))  
+  A web application developed for a band called Cherry Crisis. My favorite design to work on!
+
 - 🧴 [**Lavan Beauty**](https://github.com/Scout-NU/lavan-beauty)  
   A web application developed for an Ayurvedic skincare brand to showcase products and improve customer engagement.
 
 👉 [See all my repositories »](https://github.com/ananyar807?tab=repositories)
 
-### 🖼️ Screenshots
+### 🖼️ Some Screenshots!
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9b536813-352c-43f0-ac1f-8206f04ec182" alt="Pixel's Pet Shop Screenshot" style="max-width: 100%; width: 600px; border-radius: 10px;" />
   <br><br>
-  <img src="https://github.com/user-attachments/assets/70e19a57-d152-49c0-8512-b02f7475ceb3" alt="Lavan Beauty Screenshot" style="max-width: 100%; width: 400px; border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/70e19a57-d152-49c0-8512-b02f7475ceb3" alt="Cherry Crisis" style="max-width: 100%; width: 400px; border-radius: 10px;" />
   <br><br>
 </div>
 
@@ -40,7 +43,7 @@ https://github.com/user-attachments/assets/edadbd5a-5248-4cce-bbc6-fd137d39c662
 - Validated workflows with Cypress E2E testing; deployed and managed releases to Kubernetes (AWS).
 - Monitored system performance via Datadog.
 - Integrated HTTP requests for Salesforce Youreka collaboration project.
-- Presented a Google Maps Eco-Friendly Routes API integration at Dispatch Hackathon 2024.
+- 💡 Presented a Google Maps Eco-Friendly Routes API integration at Dispatch Hackathon 2024.
 
 ---
 
